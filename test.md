@@ -1,6 +1,6 @@
 # O(n) examples
 
-## We will be going for the number of steps. \ our goal is the number 10. 
+## We will be going for the number of steps.  our goal is the number 10. 
 ### O(1) constant time
 [1] # O(1) 1 step
 
@@ -22,4 +22,4 @@
 [1,2,3,4,5,6,7,8,9,10]\
 [1,2,3,4,5,6,7,8,9,10]\
 [1,2,3,4,5,6,7,8,9,10]\
-[1,2,3,4,5,6,7,8,9,10]\
+[1,2,3,4,5,6,7,8,9,10]
